@@ -236,7 +236,8 @@ Aryan's updated score is reflected in the FCAT. The coordinator can see whether 
 **Step 8: Full loop visible to all stakeholders**
 The complete cycle — detection, intervention, re-assessment, outcome — is visible to the student, the faculty, and the coordinator. No information silos. No guesswork about whether anything happened.
 
-![Screenshot from 2024-01-13 19-06-19.png](attachment:1ac18450-2936-4974-9446-1819ff7fb5e7:Screenshot_from_2024-01-13_19-06-19.png)
+
+<img width="1361" height="696" alt="Screenshot from 2024-01-13 19-06-19" src="https://github.com/user-attachments/assets/08b7f25d-d405-4842-b2d8-97bf5b19fa93" />
 
 ---
 
@@ -333,11 +334,13 @@ That principle — designing for action, not just visibility — is what I want 
 
 1. Student Dashboard
 
-![image.png](attachment:a3488c94-a4b5-4673-bc2a-f58d36cc5bf7:image.png)
+<img width="575" height="342" alt="image (2)" src="https://github.com/user-attachments/assets/1e9b67c4-68b9-4c19-9c5f-154bc82359cb" />
+
 
 1. Faculty Dashboard
 
-![image (1).png](attachment:ac8ea130-9dfd-45b3-a430-8ee67a3414e3:image_(1).png)
+<img width="547" height="353" alt="image (1) (1)" src="https://github.com/user-attachments/assets/3ee0db03-9b00-4936-adaf-10f55db72dab" />
+
 
 ## Key Takeaways
 
